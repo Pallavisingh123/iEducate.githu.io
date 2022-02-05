@@ -68,7 +68,7 @@ padding: 0 23px;
 
 }
 .background{
-    background:rgb(0, 0, 0,0.7) url('/img/ed.webp');
+    background:rgb(0, 0, 0,0.7) url("https://www.pexels.com/photo/books-in-black-wooden-book-shelf-159711/");
     background-size: cover;
     background-blend-mode: darken;
     
