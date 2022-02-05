@@ -281,5 +281,15 @@ top: 15px;
     .paras{
         padding: 0px 0px;
     }
+    .texr{
+        padding: 12px;
+    }
+    .form{
+        max-width: 300px;
+    }
+    .text-footer{
+        test-size: small;
+    }
+            
 }
     
