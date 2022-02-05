@@ -71,8 +71,7 @@ padding: 0 23px;
     background:rgb(0, 0, 0,0.7) url('img/ed.webp');
     background-size: cover;
     background-blend-mode: darken;
-    
-}
+    }
 .box-main{
     display: flex;
     justify-content: center;
