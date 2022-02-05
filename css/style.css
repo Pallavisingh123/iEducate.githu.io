@@ -283,6 +283,7 @@ top: 15px;
     }
     .text{
         padding: 0px;
+        font-size: 15px
     }
     .form{
         max-width: 300px;
